@@ -1,4 +1,5 @@
 #websiteRegex.py -- Finds all website domains on the clipboard
+#how to use: copy some paragraphs of text to the clipboard, run the code, and it will return only the websites contained within the text
 
 import pyperclip, re
 
